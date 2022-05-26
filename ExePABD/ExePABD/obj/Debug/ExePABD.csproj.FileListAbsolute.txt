@@ -1,0 +1,14 @@
+C:\Users\acer\source\repos\ExePABD\ExePABD\bin\Debug\ExePABD.exe.config
+C:\Users\acer\source\repos\ExePABD\ExePABD\bin\Debug\ExePABD.exe
+C:\Users\acer\source\repos\ExePABD\ExePABD\bin\Debug\ExePABD.pdb
+C:\Users\acer\source\repos\ExePABD\ExePABD\obj\Debug\ExePABD.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\ExePABD\ExePABD\obj\Debug\ExePABD.Form1.resources
+C:\Users\acer\source\repos\ExePABD\ExePABD\obj\Debug\ExePABD.Form2.resources
+C:\Users\acer\source\repos\ExePABD\ExePABD\obj\Debug\ExePABD.Form3.resources
+C:\Users\acer\source\repos\ExePABD\ExePABD\obj\Debug\ExePABD.Form4.resources
+C:\Users\acer\source\repos\ExePABD\ExePABD\obj\Debug\ExePABD.Form5.resources
+C:\Users\acer\source\repos\ExePABD\ExePABD\obj\Debug\ExePABD.Properties.Resources.resources
+C:\Users\acer\source\repos\ExePABD\ExePABD\obj\Debug\ExePABD.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\ExePABD\ExePABD\obj\Debug\ExePABD.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\ExePABD\ExePABD\obj\Debug\ExePABD.exe
+C:\Users\acer\source\repos\ExePABD\ExePABD\obj\Debug\ExePABD.pdb
